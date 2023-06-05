@@ -1,2 +1,17 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1 class=title>ICPC-Library</h1>
+<hr>
+<div>
+  <p>ICPC用のライブラリを整備しています。</p>
+  <p>今のところC++のみです。</p>
+</div>
+
+<style>
+  * {
+    background-color: antiquewhite;
+  }
+
+  .title {
+    font-size: 30px;
+    color: blue;
+  }
+</style>
