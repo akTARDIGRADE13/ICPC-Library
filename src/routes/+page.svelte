@@ -7,11 +7,11 @@
 
 <style>
   * {
-    background-color: antiquewhite;
+    background-color: rgb(234, 234, 234);
   }
 
   .title {
     font-size: 30px;
-    color: blue;
+    color:rgb(0, 69, 112);
   }
 </style>
